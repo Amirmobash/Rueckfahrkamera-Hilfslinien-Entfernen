@@ -1,5 +1,11 @@
 # Entfernen der roten, gelben und grünen Parklinien ohne Loop-Kabel
 
+
+<p align="center"><img src="docs/images/backup-camera-parking-overlay-lines-pcb-guide.svg" alt="Reverse camera permanent parking guidelines removal PCB modification visual" width="960"/></p>
+
+<sub>Illustrative overview; not a verified device photograph, measured CAD export, or tested safety design.</sub>
+
+
 Viele günstige Rückfahrkameras zeigen dauerhaft farbige Hilfslinien an. Normalerweise gibt es bei manchen Modellen ein dünnes Loop-Kabel, mit dem man diese Linien deaktivieren kann.
 
 Bei dieser Kamera gab es jedoch kein solches Kabel. Deshalb wurde die Funktion direkt über die Platine der Kamera deaktiviert.
